@@ -4,7 +4,7 @@ Software engineer in Tokyo, Japan.
 |   Key   |                 Value                  |
 | ------- | -------------------------------------- |
 | Email   | bmf.infomation@gmail.com               |
-| Blog    | [bmf-tech](https://bmf-tech.com)       |
+| Blog    | [bmf-tech.com](https://bmf-tech.com)   |
 | Twitter | [bmf_san](https://twitter.com/bmf_san) |
 
 ![bmf-san's github stats](https://github-readme-stats.vercel.app/api?username=bmf-san)
