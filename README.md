@@ -31,6 +31,7 @@ Software engineer in Tokyo, Japan.
 ## Tool
 [![go-github-pull-request](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-github-pull-request&show_owner=true)](https://github.com/bmf-san/go-github-pull-request)
 [![go-mysqldump](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-mysqldump&show_owner=true)](https://github.com/bmf-san/go-mysqldump)
+[![emoji-generator-slack-app](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-mysqldump&show_owner=true)](https://github.com/bmf-san/emoji-generator-slack-app)
 
 
 
