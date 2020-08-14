@@ -15,6 +15,7 @@ Software engineer in Tokyo, Japan.
 ## Application
 [![gobel-api](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gobel-api&show_owner=true)](https://github.com/bmf-san/gobel-api)
 [![gobel-admin-client](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gobel-admin-client&show_owner=true)](https://github.com/bmf-san/gobel-admin-client)
+[![gobel-client-example](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gobel-client-example&show_owner=true)](https://github.com/bmf-san/gobel-client-example)
 [![Rubel](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=Rubel&show_owner=true)](https://github.com/bmf-san/Rubel)
 
 ## Framework
