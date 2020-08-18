@@ -22,6 +22,7 @@ Software engineer in Tokyo, Japan.
 - [goblin](https://github.com/bmf-san/goblin)
 - [golem](https://github.com/bmf-san/golem)
 - [go-dotenv](https://github.com/bmf-san/go-dotenv)
+- [bitbankgo](https://github.com/bmf-san/bitbankgo)
 
 ## Tool
 - [go-github-pull-request](https://github.com/bmf-san/go-github-pull-request)
