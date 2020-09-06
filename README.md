@@ -28,7 +28,6 @@ Software engineer in Tokyo, Japan.
 - [go-github-pull-request](https://github.com/bmf-san/go-github-pull-request)
 - [go-mysqldump](https://github.com/bmf-san/go-mysqldump)
 - [emoji-generator-slack-app](https://github.com/bmf-san/emoji-generator-slack-app)
-- [oilking](https://github.com/bmf-san/oilking)
 - [dotfiles](https://github.com/bmf-san/dotfiles)
 
 ## Boilerplate
