@@ -1,11 +1,12 @@
 # bmf-san
 Software engineer in Tokyo, Japan.
 
-|   Key   |                 Value                  |
-| ------- | -------------------------------------- |
-| Email   | bmf.infomation@gmail.com               |
-| Blog    | [bmf-tech.com](https://bmf-tech.com)   |
-| Twitter | [bmf_san](https://twitter.com/bmf_san) |
+|   Key   |                 Value                   |
+| ------- | --------------------------------------- |
+| Email   | bmf.infomation@gmail.com                |
+| Blog    | [bmf-tech.com](https://bmf-tech.com)    |
+|         | [dev.to/bmf_san](https://dev.to/bmf_san)|
+| Twitter | [bmf_san](https://twitter.com/bmf_san)  |
 
 # My activities
 ## Application
