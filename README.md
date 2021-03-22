@@ -37,5 +37,6 @@ Software engineer.
 - [go-clean-architecture-web-application-boilerplate](https://github.com/bmf-san/go-clean-architecture-web-application-boilerplate)
 - [go-production-boilerplate](https://github.com/bmf-san/go-production-boilerplate)
 - [terraform-ansible-openstack-boilerplate](https://github.com/bmf-san/terraform-ansible-openstack-boilerplate)
+- [setup-kubernetes-cluster-on-vps-boilerplate](https://github.com/bmf-san/setup-kubernetes-cluster-on-vps-boilerplate)
 - [react-redux-spa-boilerplate](https://github.com/bmf-san/react-redux-spa-boilerplate)
 - [vue-js-boilerplate](https://github.com/bmf-san/vue-js-boilerplate)
