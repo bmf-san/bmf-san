@@ -39,6 +39,7 @@ Software engineer at Makuake, Inc.
 - [emoji-generator-slack-app](https://github.com/bmf-san/emoji-generator-slack-app)
 - [migrate-rubel-to-gobel](https://github.com/bmf-san/migrate-rubel-to-gobel)
 - [akashi-slack-slash-command](https://github.com/bmf-san/akashi-slack-slash-command)
+- [go-router-benchmark](https://github.com/bmf-san/go-router-benchmark)
 
 ## Boilerplate
 - [go-clean-architecture-web-application-boilerplate](https://github.com/bmf-san/go-clean-architecture-web-application-boilerplate)
