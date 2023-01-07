@@ -56,4 +56,3 @@ Software engineer at Makuake, Inc.
 
 ## Learning
 - [road-to-algorithm-master](https://github.com/bmf-san/road-to-algorithm-master)
-- [go-radix-tree](https://github.com/bmf-san/go-radix-tree)
