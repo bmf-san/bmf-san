@@ -1,6 +1,6 @@
 # bmf-san
 
-Software engineer at Makuake, Inc.
+Software engineer.
 
 |     Key      |                     Value                     |
 | ------------ | --------------------------------------------- |
