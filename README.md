@@ -7,6 +7,8 @@ Software engineer.
 | Email        | bmf.infomation@gmail.com                      |
 | bmf-tech.com | [bmf-tech.com](https://bmf-tech.com)          |
 | dev.to       | [bmf_san](https://dev.to/bmf_san)             |
+| zenn.dev       | [bmf_san](https://zenn.dev/bmf_san)             |
+| qiita.com       | [bmf_san](https://qiita.com/bmf_san)             |
 | speakerdeck.com | [bmf_san](https://speakerdeck.com/bmf_san) | 
 | HackerRank   | [bmf_san](https://www.hackerrank.com/bmf_san) |
 | Twitter      | [bmf_san](https://twitter.com/bmf_san)        |
