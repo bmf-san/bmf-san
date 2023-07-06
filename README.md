@@ -11,7 +11,9 @@ Software engineer.
 | Qiita       | [bmf_san](https://qiita.com/bmf_san)             |
 | Speaker Deck | [bmf_san](https://speakerdeck.com/bmf_san) | 
 | HackerRank   | [bmf_san](https://www.hackerrank.com/bmf_san) |
+| LeetCode   | [bmf-san](https://leetcode.com/bmf-san) |
 | Twitter      | [bmf_san](https://twitter.com/bmf_san)        |
+| LinkedIn| [bmf-san](https://www.linkedin.com/in/bmf-san) |
 
 # My activities
 ## Application
