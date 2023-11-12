@@ -31,6 +31,7 @@ Software engineer.
 
 ## Library
 - [goblin](https://github.com/bmf-san/goblin)
+- [gondola](https://github.com/bmf-san/gondola)
 - [golem](https://github.com/bmf-san/golem)
 - [gowan](https://github.com/bmf-san/gowan)
 - [goemon](https://github.com/bmf-san/goemon)
