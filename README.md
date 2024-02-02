@@ -1,4 +1,4 @@
-# bmf-san
+# bmf-san / Kenta Takeuchi
 
 Software engineer.
 
