@@ -12,5 +12,3 @@ Software engineer.
 | Zenn       | [bmf_san](https://zenn.dev/bmf_san)             |
 | Qiita       | [bmf_san](https://qiita.com/bmf_san)             |
 | Speaker Deck | [bmf_san](https://speakerdeck.com/bmf_san) | 
-| HackerRank   | [bmf_san](https://www.hackerrank.com/bmf_san) |
-| LeetCode   | [bmf-san](https://leetcode.com/bmf-san) |
