@@ -7,7 +7,7 @@ Software engineer.
 | Email        | bmf.infomation@gmail.com                      |
 | Twitter      | [bmf_san](https://twitter.com/bmf_san)        |
 | LinkedIn   | [bmf-san](https://www.linkedin.com/in/bmf-san) |
-| bmf-tech.com | [bmf-tech.com](https://bmf-tech.com)          |
+| Personal Blog | [bmf-tech.com](https://bmf-tech.com)          |
 | DEV       | [bmf_san](https://dev.to/bmf_san)             |
 | Zenn       | [bmf_san](https://zenn.dev/bmf_san)             |
 | Qiita       | [bmf_san](https://qiita.com/bmf_san)             |
