@@ -41,7 +41,7 @@ Software engineer.
 # Tools
 [![bmf-san/go-router-benchmark](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-router-benchmark)](https://github.com/bmf-san/go-router-benchmark)
 [![bmf-san/go-tweet-cleaner](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-tweet-cleaner)](https://github.com/bmf-san/go-tweet-cleaner)
-[![bmf-san/gcl](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gcl)](https://github.com/bmf-san/gcl)
+[![bmf-san/ggc](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=ggc)](https://github.com/bmf-san/ggc)
 
 # PoC
 [![bmf-san/poc-opa-access-control-system](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=poc-opa-access-control-system)](https://github.com/bmf-san/poc-opa-access-control-system)
