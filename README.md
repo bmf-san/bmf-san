@@ -35,8 +35,9 @@ Software engineer.
 [![bmf-san/gondola](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gondola)](https://github.com/bmf-san/gondola)
 [![bmf-san/go-bitflyer-api-client](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-bitflyer-api-client)](https://github.com/bmf-san/go-bitflyer-api-client)
 
-# Boilerplates
+# Templates
 [![bmf-san/go-clean-architecture-web-application-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-clean-architecture-web-application-boilerplate)](https://github.com/bmf-san/go-clean-architecture-web-application-boilerplate)
+[![bmf-san/resume-manager](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=resume-manager)](https://github.com/bmf-san/resume-manager)
 
 # Tools
 [![bmf-san/go-router-benchmark](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-router-benchmark)](https://github.com/bmf-san/go-router-benchmark)
