@@ -37,6 +37,7 @@ Software engineer.
 # Templates
 [![bmf-san/go-clean-architecture-web-application-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-clean-architecture-web-application-boilerplate)](https://github.com/bmf-san/go-clean-architecture-web-application-boilerplate)
 [![bmf-san/resume-manager](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=resume-manager)](https://github.com/bmf-san/resume-manager)
+[![bmf-san/flutter-app-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=flutter-app-boilerplate)](https://github.com/bmf-san/flutter-app-boilerplate/tree/main)
 
 # Tools
 [![bmf-san/ggc](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=ggc)](https://github.com/bmf-san/ggc)
