@@ -11,39 +11,25 @@ Software engineer.
 | DEV       | [bmf_san](https://dev.to/bmf_san)             |
 | Zenn       | [bmf_san](https://zenn.dev/bmf_san)             |
 | Qiita       | [bmf_san](https://qiita.com/bmf_san)             |
-| Speaker Deck | [bmf_san](https://speakerdeck.com/bmf_san) | 
+| Speaker Deck | [bmf_san](https://speakerdeck.com/bmf_san) |
 
-# Status
-[![bmf-san's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmf-san&count_private=true)](https://github.com/bmf-san/github-readme-stats)
+# Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmf-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-# Applications
-[![bmf-san/gohan](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gohan)](https://github.com/bmf-san/gohan)
-[![bmf-san/gobel-api](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gobel-api)](https://github.com/bmf-san/gobel-api)
-[![bmf-san/bmf-tech-client](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=bmf-tech-client)](https://github.com/bmf-san/bmf-tech-client)
-[![bmf-san/gobel-admin-client-example](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gobel-admin-client-example)](https://github.com/bmf-san/gobel-admin-client-example)
-[![bmf-san/gobel-example](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gobel-example)](https://github.com/bmf-san/gobel-example)
-[![bmf-san/oil-king](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=oil-king)](https://github.com/bmf-san/oil-king)
-
-# Frameworks
-[![bmf-san/sleyt](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=sleyt)](https://github.com/bmf-san/sleyt)
-[![bmf-san/sea.css](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=sea.css)](https://github.com/bmf-san/sea.css)
-
-# Libraries
-[![bmf-san/goblin](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=goblin)](https://github.com/bmf-san/goblin)
-[![bmf-san/gondola](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=gondola)](https://github.com/bmf-san/gondola)
-[![bmf-san/go-bitflyer-api-client](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-bitflyer-api-client)](https://github.com/bmf-san/go-bitflyer-api-client)
-
-# Templates
-[![bmf-san/go-clean-architecture-web-application-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-clean-architecture-web-application-boilerplate)](https://github.com/bmf-san/go-clean-architecture-web-application-boilerplate)
-[![bmf-san/resume-manager](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=resume-manager)](https://github.com/bmf-san/resume-manager)
-[![bmf-san/flutter-app-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=flutter-app-boilerplate)](https://github.com/bmf-san/flutter-app-boilerplate/tree/main)
-
-# Tools
-[![bmf-san/ggc](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=ggc)](https://github.com/bmf-san/ggc)
-[![bmf-san/go-router-benchmark](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=go-router-benchmark)](https://github.com/bmf-san/go-router-benchmark)
-[![bmf-san/spec-by-bmf-san](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=spec-by-bmf-san)]([https://github.com/bmf-san/ggc](https://github.com/bmf-san/spec-by-bmf-san))
-
-# PoC
-[![bmf-san/poc-opa-access-control-system](https://github-readme-stats.vercel.app/api/pin/?username=bmf-san&repo=poc-opa-access-control-system)](https://github.com/bmf-san/poc-opa-access-control-system)
+| Category     | Repository                                                                                                                       | Description                                                                                                              |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Applications | [gohan](https://github.com/bmf-san/gohan)                                                                                        | A simple, fast static site generator written in Go with differential builds                                              |
+| Applications | [gobel-api](https://github.com/bmf-san/gobel-api)                                                                                | Gobel is a headless cms built with golang.                                                                               |
+| Applications | [gobel-example](https://github.com/bmf-san/gobel-example)                                                                        | Gobel is a headless cms built with golang.                                                                               |
+| Applications | [gogocoin](https://github.com/bmf-san/gogocoin)                                                                                  | bitFlyer取引所向けの暗号通貨取引ボット                                                                                   |
+| Applications | [bmf-tech](https://github.com/bmf-san/bmf-tech)                                                                                  | This is my tech blog.                                                                                                    |
+| Frameworks   | [sleyt](https://github.com/bmf-san/sleyt)                                                                                        | A minimal and modern CSS framework.                                                                                      |
+| Frameworks   | [sea.css](https://github.com/bmf-san/sea.css)                                                                                    | sea.css is a simple and easy to use css framework.                                                                       |
+| Libraries    | [goblin](https://github.com/bmf-san/goblin)                                                                                      | A golang http router based on trie tree.                                                                                 |
+| Libraries    | [go-bitflyer-api-client](https://github.com/bmf-san/go-bitflyer-api-client)                                                      | bitFlyer Lightning API client for Go.                                                                                    |
+| Templates    | [go-clean-architecture-web-application-boilerplate](https://github.com/bmf-san/go-clean-architecture-web-application-boilerplate) | A web application boilerplate built with go and clean architecture.                                                      |
+| Templates    | [resume-manager](https://github.com/bmf-san/resume-manager)                                                                      | キャリア資料（履歴書・職務経歴書・ポートフォリオ等）をMarkdownで管理し、PDF生成まで自動化するためのテンプレート          |
+| Templates    | [flutter-app-boilerplate](https://github.com/bmf-san/flutter-app-boilerplate/tree/main)                                          | Flutterアプリ開発のためのボイラープレート                                                                                |
+| Tools        | [ggc](https://github.com/bmf-san/ggc)                                                                                            | A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.                          |
+| Tools        | [go-router-benchmark](https://github.com/bmf-san/go-router-benchmark)                                                            | Benchmark tests for http router implemented in golang.                                                                   |
+| Tools        | [spec-by-bmf-san](https://github.com/bmf-san/spec-by-bmf-san)                                                                    | A repository of original specifications created by bmf-san.                                                             |
+| PoC          | [poc-opa-access-control-system](https://github.com/bmf-san/poc-opa-access-control-system)                                        | This is a repository for POC of access control infrastructure using open policy agent.                                   |
