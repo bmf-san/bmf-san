@@ -1,5 +1,17 @@
 # bmf-san / Kenta Takeuchi
-Software engineer.
+Senior Platform Engineer.
+
+Started my career as a freelance web developer, then gained experience launching new businesses at a startup and working on diverse projects at a software development firm.
+
+Later joined a crowdfunding company as a software engineer, where I was involved in designing and developing core infrastructure systems including notification and authentication/authorization platforms.
+
+Currently working as a Senior Platform Engineer at an HR tech company, focusing on product platform development.
+
+I aspire to continuously increase the long-term value of both organizations and software, and strive every day to contribute to the growth of the teams and products I am part of.
+
+Interested in system architecture.
+
+Hobbies include OSS development, going to the gym, and tending to houseplants.
 
 # Profile
 |     Key      |                     Value                     |
