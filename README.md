@@ -25,7 +25,7 @@ Hobbies include OSS development, going to the gym, and tending to houseplants.
 | Qiita       | [bmf_san](https://qiita.com/bmf_san)             |
 | Speaker Deck | [bmf_san](https://speakerdeck.com/bmf_san) |
 
-# Repositories
+# Works
 
 | Category     | Repository                                                                                                                       | Description                                                                                                              |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
