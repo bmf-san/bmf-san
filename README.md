@@ -27,8 +27,6 @@ Hobbies include OSS development, going to the gym, and tending to houseplants.
 
 # Works
 
-# Works
-
 | Category     | Repository                                                                                                                       | Description                                                                                                              |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Apps         | [Done Log](https://apps.apple.com/jp/app/done-log/id6759606196)                                                                  | Done Log is a simple habit and action logging app.                                                                       |
