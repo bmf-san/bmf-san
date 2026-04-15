@@ -1,31 +1,20 @@
 # bmf-san / Kenta Takeuchi
 Senior Platform Engineer.
 
-Started my career as a freelance web developer, then gained experience launching new businesses at a startup and working on diverse projects at a software development firm.
+Started my career as a freelance web engineer, then gained experience developing job services at a startup and handling diverse projects at a contract development company. Later joined a company operating a crowdfunding service as a software engineer, working on foundational systems including notification infrastructure and authentication/authorization platforms. Currently at a company operating an HR/labor management SaaS as a Senior Platform Engineer, working on product infrastructure development.
 
-Later joined a crowdfunding company as a software engineer, where I was involved in designing and developing core infrastructure systems including notification and authentication/authorization platforms.
+My goal is to continuously improve the long-term value of the organizations and software I'm involved with. I'm particularly interested in system architecture. Hobbies include OSS development, the gym, and houseplants.
 
-Currently working as a Senior Platform Engineer at an HR tech company, focusing on product platform development.
-
-I aspire to continuously increase the long-term value of both organizations and software, and strive every day to contribute to the growth of the teams and products I am part of.
-
-Interested in system architecture.
-
-Hobbies include OSS development, going to the gym, and tending to houseplants.
-
-# Profile
-|     Key      |                     Value                     |
-| ------------ | --------------------------------------------- |
-| Email        | bmf.infomation@gmail.com                      |
-| Twitter      | [bmf_san](https://twitter.com/bmf_san)        |
-| LinkedIn   | [bmf-san](https://www.linkedin.com/in/bmf-san) |
-| Personal Blog | [bmf-tech.com](https://bmf-tech.com)          |
-| DEV       | [bmf_san](https://dev.to/bmf_san)             |
-| Zenn       | [bmf_san](https://zenn.dev/bmf_san)             |
-| Qiita       | [bmf_san](https://qiita.com/bmf_san)             |
+| Key | Value |
+|---|---|
+| Email | bmf.infomation@gmail.com |
+| GitHub | [bmf-san](https://github.com/bmf-san) |
+| Twitter | [@bmf_san](https://twitter.com/bmf_san) |
+| LinkedIn | [bmf-san](https://www.linkedin.com/in/bmf-san) |
+| Zenn | [bmf_san](https://zenn.dev/bmf_san) |
 | Speaker Deck | [bmf_san](https://speakerdeck.com/bmf_san) |
-
-# Works
+| Findy | [bmf-san](https://findy-code.io/skills-share/4bgFBcxEN7EA7) |
+| LAPRAS | [YCDKRXI](https://lapras.com/public/YCDKRXI) |
 
 ## Works
 
