@@ -14,7 +14,7 @@ My goal is to continuously improve the long-term value of the organizations and 
 | Zenn | [bmf_san](https://zenn.dev/bmf_san) |
 | Speaker Deck | [bmf_san](https://speakerdeck.com/bmf_san) |
 | Findy | [bmf-san](https://findy-code.io/skills-share/4bgFBcxEN7EA7) |
-| LAPRAS | [YCDKRXI](https://lapras.com/public/YCDKRXI) |
+| LAPRAS | [bmf san](https://lapras.com/public/YCDKRXI) |
 
 ## Works
 
